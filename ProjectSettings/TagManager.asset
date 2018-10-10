@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - scrolling
+  - projectile
+  - map
+  - powerup
+  - ennemie2
+  - ennemie
+  - ennemie_boundary
+  - bosstext
+  - projectile_ennemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - onlyplayer
+  - player
+  - mapcollider
+  - ennemies
+  - noteennemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1217773595
+    locked: 0
+  - name: MidGround
+    uniqueID: 4059284477
+    locked: 0
+  - name: Forground
+    uniqueID: 647581699
+    locked: 0
